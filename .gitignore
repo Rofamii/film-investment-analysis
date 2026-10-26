@@ -1,0 +1,7 @@
+# Data stays on my computer: scraped in a group project, not mine to publish
+data/
+*.csv
+*.xlsx
+
+# Power BI files contain all imported data
+*.pbix
